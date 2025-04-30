@@ -8,6 +8,9 @@ Whether you're just beginning or advancing your journey, this repository offers 
 
 ## 🔥 Current Books Available
 
+- **Black Hat Python (2nd Edition)**  
+  Explore the dark side of Python and build tools used by ethical hackers and security researchers.
+
 - **Cybersecurity: The Beginner's Guide**  
   A comprehensive guide to getting started in cybersecurity.
 
@@ -19,6 +22,9 @@ Whether you're just beginning or advancing your journey, this repository offers 
 
 - **The Web Application Hacker's Handbook (2nd Edition)**  
   Updated and expanded techniques for modern web security.
+
+- **Handbook of Computer Programming with Python**  
+  A practical guide to writing efficient and powerful Python code.
 
 ---
 
